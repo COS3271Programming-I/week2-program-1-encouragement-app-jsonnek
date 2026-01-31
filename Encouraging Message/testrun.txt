@@ -1,0 +1,10 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49393 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week2-program-1-encouragement-app-jsonnek/out/production/Encouraging Message Message
+Please enter your First Name:
+Jonathan
+Please enter your Middle Name:
+Thomas
+Please enter your Last Name:
+Sonnek
+Good job Jonathan  Thomas Sonnek, keep up the great work! You are doing amazing! 💪 🌟 😊
+
+Process finished with exit code 0
